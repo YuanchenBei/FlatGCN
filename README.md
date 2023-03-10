@@ -1,5 +1,5 @@
 # FlatGCN
-This is the official Pytorch-version code of FlatGCN (Flattened Graph Convolutional Networks for Recommendation, accepted by KDD2022 workshop).
+This is the official Pytorch-version code of FlatGCN ([Flattened Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2210.07769.pdf), accepted by KDD2022 Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data).
 
 ## Requirements
 python >= 3.7
